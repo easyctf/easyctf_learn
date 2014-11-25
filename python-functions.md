@@ -14,5 +14,6 @@ You can put parameters - information passed to the function for use inside it - 
 		print(a+b)
 		print(c)
 `func_name(3,7,"hello")` would print an output of:
+
 	10
 	"Hello"
