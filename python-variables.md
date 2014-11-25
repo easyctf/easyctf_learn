@@ -19,10 +19,10 @@ world = "World"
 You can also add strings together like this: 
 helloworld = hello + " " + world
 This makes helloworld store the value "Hello World"
-### PLEASE DO NOT SUBTRACT STRINGS
+<h3> PLEASE DO NOT SUBTRACT STRINGS</h3>
 </p>
 * <p>character - a single symbol represented by a letter or number surrounded by single quotes. 
-Examples: 'A', '4', 'k'
+Examples: `'A'`, `'4'`, `'k'`
 To define: 
 mychar = 'h' 
 Single characters can be converted to their ASCII identifiers using the ord() function. Similarly, to convert an ASCII identifier back to a readable character, use the chr() function.</p>
