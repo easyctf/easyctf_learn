@@ -8,4 +8,4 @@
   * [Conditional Statements](python-conditional.md)
 * [Linux Crash Course]()
   * [Commands](linux-commands.md)
-    * []
+* [Resources](resources.md)
