@@ -5,3 +5,4 @@
   * [Variables](python-variables.md)
   * [Functions](python-functions.md
   * [Loops](python-loops.md)
+  * [Conditional Statements](python-conditional.md)
