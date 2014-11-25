@@ -1,17 +1,17 @@
 ## Variable
 Variables store values that can be looked at or changed later. You do not need to need to declare variable types before assigning them. However, you must initialize them before you call them. Different types of variables include:
-* <p>integer - a number that is not a fraction. 
-Examples: -1, 2, 105676 etc.
-To define, use the following syntax: 
+* <p>integer - a number that is not a fraction.  
+Examples: -1, 2, 105676 etc.<br />
+To define, use the following syntax: <br /> 
 myint = 2</p>
 * <p>floating point - a number that has decimal values. 
-Examples: 1.0, -2.73, 0.66
-To define: 
-myfloat = 7.3
-or 
-myfloat = float(7)
+Examples: 1.0, -2.73, 0.66 <br />
+To define: <br />
+myfloat = 7.3<br />
+or <br />
+myfloat = float(7)<br />
 With integers and floating points, you can perform basic math operations on them such as + - / *. </p>
-* <p>string - text surrounded by double or single quotes. 
+* <p>string - text surrounded by double or single quotes.  
 Examples: "Hello", 'World'
 To define: 
 hello = "Hello"
