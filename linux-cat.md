@@ -12,7 +12,7 @@ The cat command is used for:
 	
   To view all files or:
   
-    cat *.txt
+		cat *.txt
 	
   To view all text files only.
 	
@@ -20,17 +20,17 @@ The cat command is used for:
 
   Sometimes a file will be too large to read since it won't fit on screen and will scroll by at high speed. To bypass this, use the `cat` command with `more` or `less`.
   
-    cat bigfile | more
+		cat bigfile | more
 	
   or
   
-	cat bigfile | less
+		cat bigfile | less
 	
 * Creating a new text file
 
   To create a file named "test.txt":
   
-	cat > test.txt
+		cat > test.txt
 	
   Then, type the text you want to save into your file and press [ctrl]+[d] when you are finished.
   
@@ -38,12 +38,12 @@ The cat command is used for:
 
   To combine to files and create a new file called "newfile.txt":
   
-    cat file1.txt file2.txt > newfile.txt
+		cat file1.txt file2.txt > newfile.txt
 	
 * Modifying files
 
   To add data to an existing file named "test.txt":
   
-    cat >> test.txt
+		cat >> test.txt
 	
   Then type your text, and again, press [ctrl] + [d] when finished.
