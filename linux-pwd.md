@@ -1,6 +1,5 @@
 ## pwd
 
-### Print Working Directory
 The current working directory is the directory you are currently working in in your shell.
 
 This command is used for:
