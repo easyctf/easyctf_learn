@@ -10,7 +10,9 @@ There are two types of loops in Python: a `for` loop and a `while` loop.
 
 For loops begin with the keyword `for`. Its basic syntax looks like this:
 
-    for element in iterable:
+```python
+for element in iterable:
+```
 
 Here's an example of some code that prints `Hello, EasyCTF!` 5 times:
 
@@ -18,4 +20,8 @@ Here's an example of some code that prints `Hello, EasyCTF!` 5 times:
 for i in range(5):
     print "Hello, EasyCTF!"
 ```
+
+In this example, `i` is the element, and `range(5)` is an iterable that literally contains the numbers `0, 1, 2, 3, 4`. More about the `range()` function can be found on [the Python documentation](https://docs.python.org/2/library/functions.html#range).
+
+
 
