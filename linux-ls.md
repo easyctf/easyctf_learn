@@ -15,12 +15,15 @@ This option recursively lists the contents of all sub-directories inside this on
 ### -X
 This option lists entries sorted alphabetically by entry extension
 
+
 To use:
+
 	ls [option] [directory location]
 
 If a directory location is not specified, it will use the current directory you are in.
 
 For example:
+
 	ls -r "C:\Users"
 
 Would output the files in `C:\Users` in reverse alphabetical order.
