@@ -12,7 +12,7 @@ To define an integer, use the following syntax:
 
     myint = 2
 	
-### Floating Point
+## Floating Point
 
 A number that has decimal values. 
 
@@ -28,9 +28,7 @@ or
 	
 With integers and floating points, you can perform basic math operations on them such as + - / *.
 
-
-### String
-
+## String
 
 Text surrounded by double or single quotes.  
 
@@ -48,11 +46,9 @@ You can also add strings together like this:
 	
 This makes `helloworld` store the value `"Hello World"`
 
-
 #### PLEASE DO NOT SUBTRACT STRINGS
 
-
-### Character
+## Character
 
 
 A single symbol represented by a letter or number surrounded by single quotes. 
@@ -63,4 +59,9 @@ To define:
 
 	mychar = 'h'
 	
-Single characters can be converted to their ASCII identifiers using the `ord()` function. Similarly, to convert an ASCII identifier back to a readable character, use the `chr()` function.
+Single characters can be converted to their ASCII identifiers using the `ord()` function. Similarly, to convert an ASCII identifier back to a readable character, use the `chr()`
+
+
+
+
+function.
