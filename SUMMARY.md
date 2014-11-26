@@ -8,5 +8,6 @@
   * [Conditional Statements](python-conditional.md)
 * [Linux Crash Course]()
   * [Command Overview](linux-commands.md)
-    * [Echo](linux-echo.md)
+    * [echo](linux-echo.md)
+	* [ls](linux-ls.md)
 * [Resources](resources.md)

@@ -19,13 +19,14 @@ Outputs:
 
 	The value of x = 15
 
-If you want to print a new line or a tab use `\n` and `\t` and the `option -e` (which allows backslash interpretation) and enclose the string(s) you want to print with double quotes.
+If you want to print a new line or a tab use `\n` and `\t` and add the *option* `-e` (which allows backslash interpretation) and enclose the string(s) you want to print with double quotes.
 
 There are also certain characters that won't be automatically printed such as `\`, `"`, etc. If you need to print these, you must `escape` them first, which means you need to precede them with another backslash (which tells the shell to ignore the next character). 
 
 
 For example:
-	echo -e "this \\ is a backslash, \t\tthis \" is a double quote."
+	echo -e "this \\ is a backslash, \nthis \" is a double quote."
 
 Outputs:
-	this \ is a backslash,		this " is a double quote.
+	this \ is a backslash,
+	this " is a double quote.
