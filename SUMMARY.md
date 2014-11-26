@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Python Crash Course](python-intro.md)
-   * [Introduction](python-intro.md)
    * [Variables](python-variables.md)
    * [Functions](python-functions.md)
    * [Loops](python-loops.md)
