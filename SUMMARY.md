@@ -11,7 +11,7 @@
    * [Command Overview](linux-commands.md)
        * [echo](linux-echo.md)
        * [ls](linux-ls.md)
-       * [grep](linux-grep.md)
        * [cat](linux-cat.md)
+* [grep](linux-grep.md)
 * [Resources](resources.md)
 
