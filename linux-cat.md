@@ -4,11 +4,11 @@ The cat command is used for:
 
 * Displaying a text file
 
-	cat filename
+		cat filename
 	
   If you would like to display all files in the current directory, use the wildcard `*` like this:
   
-    cat *
+		cat *
 	
   To view all files or:
   
