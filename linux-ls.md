@@ -1,7 +1,7 @@
 ## ls
 The command `ls` lists directory contents. A directory is a file that consists solely of a set of other files, like a folder.
 
-There are several options you can add to this command such as `-a`, `-r`, `-R, `-X`, and many more.
+There are several options you can add to this command such as `-a`, `-r`, `-R`, `-X`, and many more.
 
 ### -a
 This option will list all entries in a directory, even ones starting with `.` .
