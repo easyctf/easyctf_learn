@@ -25,6 +25,7 @@ There are also certain characters that won't be automatically printed such as `\
 
 
 For example:
+
 	echo -e "this \\ is a backslash, \nthis \" is a double quote."
 
 Outputs:
