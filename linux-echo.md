@@ -28,5 +28,7 @@ For example:
 	echo -e "this \\ is a backslash, \nthis \" is a double quote."
 
 Outputs:
+
 	this \ is a backslash,
+	
 	this " is a double quote.
