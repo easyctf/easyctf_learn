@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Python Crash Course
+* [Python Crash Course](python-intro.md)
    * [Introduction](python-intro.md)
    * [Variables](python-variables.md)
    * [Functions](python-functions.md)
