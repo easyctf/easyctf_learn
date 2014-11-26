@@ -10,4 +10,5 @@
   * [Command Overview](linux-commands.md)
     * [echo](linux-echo.md)
 	* [ls](linux-ls.md)
+	* [cat](linux-cat.md)
 * [Resources](resources.md)

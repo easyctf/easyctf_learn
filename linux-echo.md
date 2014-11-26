@@ -1,4 +1,4 @@
-## Echo
+## echo
 
 Echo displays strings to standard output.
 
