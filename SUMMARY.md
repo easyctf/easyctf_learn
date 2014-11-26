@@ -13,4 +13,5 @@
        * [cat](linux-cat.md)
        * [grep](linux-grep.md)
 * [Resources](resources.md)
+* [pwd](linux-pwd.md)
 
