@@ -2,24 +2,20 @@
 
 ### Writing Loops
 
-For-Loops will come in handy during the competition, especially in challenges that ask you to brute force answers. Basically, a for loop will repeat whatever code is inside it a certain number of times. 
+Loops are exactly what they sound like they are: pieces of code that runs in a pattern multiple times. Loops are useful for math (brute-force problems), reading data from a file (line-by-line), and many more.
 
-To define: 
+There are two types of loops in Python: a `for` loop and a `while` loop.
 
-	for x in range(a,b,c):
-	
-What this means is for each number `x` inside the range `[a,b)`, meaning the range includes `a` but doesn't include `b`, it will skip every `c` number (if you don't include a `c` parameter, it will default to just incrementing by 1)
+#### For Loop
 
-For example:
+For loops begin with the keyword `for`. Its basic syntax looks like this:
 
-	for x in range(0,10,2):
-		print(x)
+    for element in iterable:
 
-would print `0,2,4,6,8`, with each number on a new line.
+Here's an example of some code that prints `Hello, EasyCTF!` 5 times:
 
-Another example:
+```python
+for i in range(5):
+    print "Hello, EasyCTF!"
+```
 
-	for x in range(0,5):
-		print("hello")
-
-would print `"hello"` 5 times, which each "hello" on a new line.
