@@ -1,4 +1,5 @@
-## Variables
+# Variables
+
 Variables store values that can be looked at or changed later. You do not need to need to declare variable types before assigning them. However, you must initialize them before you call them. Different types of variables include:
 
 
