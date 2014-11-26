@@ -2,18 +2,15 @@
 
 Variables store values that can be looked at or changed later. You do not need to need to declare variable types before assigning them. However, you must initialize them before you call them. Different types of variables include:
 
+## Integer
 
-### Integer
-
-
-A number that is not a fraction.
+An integer is a number that is not a fraction.
 
 Examples: `-1`, `2`, `105676`, etc.
 
-To define, use the following syntax: 
+To define an integer, use the following syntax: 
 
     myint = 2
-
 	
 ### Floating Point
 
