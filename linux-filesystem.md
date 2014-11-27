@@ -43,7 +43,7 @@ user@easyctf:~/folder1/folder2$ _
 
 ### Moving Up
 
-Moving up is simple. In every directory (even empty ones), there are two hidden files: `.`, which refers to the current folder, and `..`, which refers to the parent folder. Basically, to move to the parent folder (like from `folder1` to `~`), just type
+Moving up is simple. In every directory (even empty ones), there are two hidden files: `.`, which refers to the current folder, and `..`, which refers to the parent folder. Basically, to move to the parent folder (like from `folder1` to `~`), just type `cd ..`.
 
 
 
