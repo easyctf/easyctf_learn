@@ -17,8 +17,8 @@
        * [rm](linux-rm.md)
        * [mkdir](linux-mkdir.md)
        * [cp](linux-cp.md)
+       * [sudo](linux-sudo.md)
        * [mv](linux-mv.md)
    * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
-* [sudo](linux-sudo.md)
 
