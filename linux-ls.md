@@ -20,12 +20,16 @@ This option gives you a more complete listing of all of the files along with own
 
 To use:
 
-	ls [option] [directory location]
+```bash
+ls [option] [directory location]
+```
 
 If a directory location is not specified, it will use the current directory you are in.
 
 For example:
 
-	ls -r "C:\Users"
+```bash
+ls -r "/usr"
+```
 
-Would output the files in `C:\Users` in reverse alphabetical order.
+Would output the files in `/usr` in reverse alphabetical order.
