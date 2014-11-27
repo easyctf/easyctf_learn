@@ -4,15 +4,21 @@ The cat command is used for:
 
 * Displaying a text file
 
-		cat filename
+	```bash
+	cat filename
+	```
 	
   If you would like to display all files in the current directory, use the wildcard `*` like this:
   
-		cat *
+	```bash
+	cat *
+	```
 	
   To view all files or:
   
-		cat *.txt
+	```bash
+	cat *.txt
+	```
 	
   To view all text files only.
 	
