@@ -34,10 +34,13 @@ There are also certain characters that won't be automatically printed such as `\
 
 For example:
 
-	echo -e "this \\ is a backslash, \nthis \" is a double quote."
+```bash
+echo -e "this \\ is a backslash, \nthis \" is a double quote."
+```
 
 Outputs:
 
-	this \ is a backslash,
-	
-	this " is a double quote.
+```
+this \ is a backslash,
+this " is a double quote.
+```
