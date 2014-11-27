@@ -10,7 +10,9 @@ Examples: `-1`, `2`, `105676`, etc.
 
 To define an integer, use the following syntax: 
 
-    myint = 2
+```python
+myint = 2
+```
 	
 ## Floating Point
 
@@ -20,7 +22,9 @@ Examples: `1.0`, `-2.73`, `0.66`
 
 To define:
 
-	myfloat = 7.3
+```python
+myfloat = 7.3
+```
 	
 or
 
