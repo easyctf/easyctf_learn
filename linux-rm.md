@@ -1,4 +1,5 @@
 ## rm
+
 This command is used to remove files or directories. By default, it does not remove directories but can be manipulated to do so with an option.
 
 To use:
