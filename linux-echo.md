@@ -4,7 +4,9 @@ Echo displays strings to standard output.
 
 For example,
 
-	echo "Hello, EasyCTF!"
+```bash
+echo "Hello, EasyCTF!"
+```
 	
 Outputs the following:
 
