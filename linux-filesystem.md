@@ -28,7 +28,9 @@ To change a directory, type `cd` and the name of the directory you want to go to
         
 Suppose your current directory is `folder1`. You may see a prompt like this:
 
-    user@easyctf:~/folder1$ _
+```bash
+user@easyctf:~/folder1$ _
+```
     
 ### Moving Down
 
