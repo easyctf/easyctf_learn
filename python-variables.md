@@ -57,7 +57,9 @@ This makes `helloworld` store the value `"Hello World"`
 
 Or multiply a string with an integer to get a repeating string such as:
 
-    helloworld = "hello" * 6 + 3 * "world"
+```python
+helloworld = "hello" * 6 + 3 * "world"
+```
 
 Which makes `helloworld` store the value `"hellohellohellohellohellohelloworldworldworld"`
 
