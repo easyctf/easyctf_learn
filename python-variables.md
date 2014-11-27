@@ -32,7 +32,7 @@ or
 myfloat = float(7)
 ```
 	
-With integers and floating points, you can perform basic math operations on them such as + - / * (with integers though, your answers will be rounded down to an integer).
+With integers and floating points, you can perform basic math operations on them such as `+ - / *` (with integers though, your answers will be rounded down to an integer).
 
 ## String
 
