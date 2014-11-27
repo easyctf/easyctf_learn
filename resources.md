@@ -27,7 +27,7 @@ There's tons of resources on the internet nowadays, and we've compiled a handy l
 *   [Khanacademy: Cryptography Course](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ### Exploitation
-*   [Wikipedia: Exploitation](http://en.wikipedia.org/wiki/Exploit_(computer_security))
+*   [Wikipedia: Exploitation](http://en.wikipedia.org/wiki/Exploit_(computer_security)
 *   [Exploitation Exercises](http://exploit-exercises.com/)
 *   [Wikipedia: Code Injection](http://en.wikipedia.org/wiki/Code_injection)
 
