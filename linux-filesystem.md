@@ -26,3 +26,14 @@ To change a directory, type `cd` and the name of the directory you want to go to
             (other folders and files)
         (other folders and files)
         
+Suppose your current directory is `folder1`. You may see a prompt like this:
+
+    user@easyctf:~/folder1$ _
+    
+### Moving Down
+
+To move down from `folder1` to `folder2`, 
+
+
+
+
