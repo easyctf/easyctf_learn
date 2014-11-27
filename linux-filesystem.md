@@ -47,7 +47,7 @@ Moving up is simple. In every directory (even empty ones), there are two hidden 
 
 ```bash
 user@easyctf:~/folder1$ cd ..
-user@easyctf:~$
+user@easyctf:~$ _
 ```
 
 
