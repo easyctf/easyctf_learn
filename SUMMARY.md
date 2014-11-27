@@ -7,6 +7,7 @@
    * [Loops](python-loops.md)
    * [Conditional Statements](python-conditional.md)
 * [Linux Crash Course](linux-intro.md)
+   * [Filesystem](linux-filesystem.md)
    * [Command Overview](linux-commands.md)
        * [echo](linux-echo.md)
        * [ls](linux-ls.md)
