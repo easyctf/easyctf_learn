@@ -49,7 +49,9 @@ world = "World"
 	
 You can also add strings together like this: 
 
-	helloworld = hello + " " + world
+```python
+helloworld = hello + " " + world
+```
 	
 This makes `helloworld` store the value `"Hello World"`
 
