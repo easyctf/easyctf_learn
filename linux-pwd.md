@@ -1,6 +1,6 @@
 ## pwd
 
-The current working directory is the directory you are currently working in in your shell.
+pwd literally stands for "print working directory". The current working directory is the directory you are currently working in in your shell.
 
 This command is used for:
 
