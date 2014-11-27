@@ -10,12 +10,16 @@ echo "Hello, EasyCTF!"
 	
 Outputs the following:
 
-	Hello, EasyCTF!
+```
+Hello, EasyCTF!
+```
 	
 You can also declare variables and echo their values (note: to substitute values such as `$x`, you must use double quotes and not single quotes):
 
-	x = 15
-	echo "The value of x = $x"
+```bash
+x = 15
+echo "The value of x = $x"
+```
 	
 Outputs:
 
