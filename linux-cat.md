@@ -20,17 +20,23 @@ The cat command is used for:
 
   Sometimes a file will be too large to read since it won't fit on screen and will scroll by at high speed. To bypass this, use the `cat` command with `more` or `less`.
   
-		cat bigfile | more
+	```bash
+	cat bigfile | more
+	```
 	
   or
   
-		cat bigfile | less
+	```bash
+	cat bigfile | less
+	```
 	
 * Creating a new text file
 
   To create a file named "test.txt":
   
-		cat > test.txt
+	```bash
+	cat > test.txt
+	```
 	
   Then, type the text you want to save into your file and press <kbd>Ctrl</kbd> + <kbd>D</kbd> when you are finished.
   
@@ -51,3 +57,7 @@ The cat command is used for:
 	```
 	
   Then type your text, and again, press <kbd>Ctrl</kbd> + <kbd>D</kbd> when finished.
+
+
+
+
