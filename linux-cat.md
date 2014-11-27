@@ -38,12 +38,16 @@ The cat command is used for:
 
   To combine to files and create a new file called "newfile.txt":
   
-		cat file1.txt file2.txt > newfile.txt
+	```bash
+	cat file1.txt file2.txt > newfile.txt
+	```
 	
 * Modifying files
 
   To add data to an existing file named "test.txt":
   
-		cat >> test.txt
+	```bash
+	cat >> test.txt
+	```
 	
   Then type your text, and again, press [ctrl] + [d] when finished.
