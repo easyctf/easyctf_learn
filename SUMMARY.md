@@ -15,7 +15,7 @@
        * [pwd](linux-pwd.md)
        * [cd](linux-cd.md)
        * [rm](linux-rm.md)
-       * [cp](linux-cp.md)
        * [mkdir](linux-mkdir.md)
+       * [cp](linux-cp.md)
 * [Resources](resources.md)
 
