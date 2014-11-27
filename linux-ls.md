@@ -15,6 +15,8 @@ This option recursively lists the contents of all sub-directories inside this on
 ### -X
 This option lists entries sorted alphabetically by entry extension
 
+### -l
+
 
 To use:
 
