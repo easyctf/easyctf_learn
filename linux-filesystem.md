@@ -46,6 +46,8 @@ user@easyctf:~/folder1/folder2$ _
 Moving up is simple. In every directory (even empty ones), there are two hidden files: `.`, which refers to the current folder, and `..`, which refers to the parent folder. Basically, to move to the parent folder (like from `folder1` to `~`), just type `cd ..` and you will be in the parent folder.
 
 ```bash
+user@easyctf:~/folder1$ cd ..
+user@easyctf:~$
 ```
 
 
