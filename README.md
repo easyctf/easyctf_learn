@@ -4,7 +4,7 @@ Hey there! If you're new to hacking, this is definitely a great place to start!
 
 ## Hacking
 
-<iframe src="https://player.vimeo.com/video/65115363"></iframe>
+
 
 ## Contributing
 
