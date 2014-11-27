@@ -16,7 +16,7 @@ This option recursively lists the contents of all sub-directories inside this on
 This option lists entries sorted alphabetically by entry extension
 
 ### -l
-
+This option gives you a more complete listing of all of the files along with owner and permsisions.
 
 To use:
 
