@@ -4,7 +4,9 @@ Grep is a command that searches files for certain words or phrases.
 
 For example, to search the word "hello" in "test.txt":
 
-    grep "hello" test.txt
+```bash
+grep "hello" test.txt
+```
     
 You can also search for multiple files, or use the wild card, the asterisk `*`, to search all files in a directory.
 
