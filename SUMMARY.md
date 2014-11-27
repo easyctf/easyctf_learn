@@ -20,4 +20,5 @@
        * [mv](linux-mv.md)
    * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
+* [sudo](linux-sudo.md)
 
