@@ -18,5 +18,7 @@ def func_name(a,b,c):
 
 `func_name(3,7,"hello")` would print an output of:
 
-	10
-	"Hello"
+```
+10
+"Hello"
+```
