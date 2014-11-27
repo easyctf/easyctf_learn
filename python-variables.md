@@ -42,9 +42,10 @@ Examples: `"Hello"`, `'World'`
 
 To define: 
 
-	hello = "Hello"
-	
-	world = "World"
+```python
+hello = "Hello"
+world = "World"
+```
 	
 You can also add strings together like this: 
 
