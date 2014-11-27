@@ -19,6 +19,10 @@ In other words, hackers are simply curious people. However, there are rules and 
 
 If you're not careful, that's when you might find yourself in jail.
 
+### tl;dr
+
+Don't be stupid. Use common sense.
+
 ## Contributing
 
 Something wrong? Want to add something? Make a pull request [here](https://github.com/failedxyz/easyctf_tutorials) and we'll try to add your contributions to the book!
