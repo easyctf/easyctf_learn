@@ -17,5 +17,6 @@
        * [rm](linux-rm.md)
        * [mkdir](linux-mkdir.md)
        * [cp](linux-cp.md)
+   * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
 
