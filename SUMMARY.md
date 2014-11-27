@@ -13,7 +13,7 @@
        * [cat](linux-cat.md)
        * [grep](linux-grep.md)
        * [pwd](linux-pwd.md)
-       * [rm](linux-rm.md)
        * [cd](linux-cd.md)
+       * [rm](linux-rm.md)
 * [Resources](resources.md)
 
