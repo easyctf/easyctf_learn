@@ -32,7 +32,7 @@ The cat command is used for:
   
 		cat > test.txt
 	
-  Then, type the text you want to save into your file and press <kbd>ctrl</kbd> when you are finished.
+  Then, type the text you want to save into your file and press <kbd>Ctrl</kbd> + <kbd>D</kbd> when you are finished.
   
 * File concatenation (adding files)
 
