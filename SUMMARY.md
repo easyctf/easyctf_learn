@@ -14,4 +14,5 @@
        * [grep](linux-grep.md)
        * [pwd](linux-pwd.md)
 * [Resources](resources.md)
+* [cd](linux-cd.md)
 
