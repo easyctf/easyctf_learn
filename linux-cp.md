@@ -13,8 +13,12 @@ Will create a copy of `photo.jpg` named `photo-2.jpg`
 
 If the file you are trying to copy is in a different directory, say `documents/hello.txt` is the file you want to copy:
 
-    cp documents/hello.txt pictures/album1/hello-cp.txt
+```bash
+cp documents/hello.txt pictures/album1/hello-cp.txt
+```
 
 To copy multiple files, specify the files and have the last argument in the command be the directory the files will be copied into.
 
-    cp documents/test1.txt documents/test2.txt documents/test3.txt pictures/album1
+```bash
+cp documents/test1.txt documents/test2.txt documents/test3.txt pictures/album1
+```
