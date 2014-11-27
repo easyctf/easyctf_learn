@@ -10,8 +10,9 @@ For example, if you are in `documents/hello` which contains the files `test1.txt
 
     rm test1.txt test2.txt
 
-To delete the whole directory `hello` and the files it contains, use:
+To delete the whole directory `hello` and the files it contains, change to parent directory and use `-r` option:
 
+    cd ..
     rm -r hello
     
 ### -i
