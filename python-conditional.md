@@ -8,12 +8,12 @@ The format is usually as follows:
 
 ```python
 if (condition1):
-	code to be executed
+	# code to be executed
 elif (condition2):
-	different code to be executed
+	# different code to be executed
 # more elifs if needed
 else:
-	another different set of code to be executed
+	# another different set of code to be executed
 ```
 
 For example:
