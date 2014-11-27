@@ -29,7 +29,7 @@ If a directory location is not specified, it will use the current directory you 
 For example:
 
 ```bash
-ls -r "/usr"
+ls -r /usr
 ```
 
 Would output the files in `/usr` in reverse alphabetical order.
