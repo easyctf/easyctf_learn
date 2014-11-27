@@ -4,7 +4,9 @@
 
 To define: 
 
-	def func_name():
+```python
+def func_name():
+```
 	
 Any code inside the function should be indented until you want to exit the function.
 
