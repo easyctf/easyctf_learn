@@ -26,7 +26,7 @@ or
 
 	myfloat = float(7)
 	
-With integers and floating points, you can perform basic math operations on them such as + - / *.
+With integers and floating points, you can perform basic math operations on them such as + - / * (with integers though, your answers will be rounded down to an integer).
 
 ## String
 
@@ -42,11 +42,17 @@ To define:
 	
 You can also add strings together like this: 
 
-	helloworld = hello + " " + world
+	helloworld = Hello + " " + World
 	
 This makes `helloworld` store the value `"Hello World"`
 
-#### PLEASE DO NOT SUBTRACT STRINGS
+Or multiply a string with an integer to get a repeating string such as:
+
+    helloworld = "hello" * 6 + 3 * "world"
+
+Which makes `helloworld` store the value `"hellohellohellohellohellohelloworldworldworld"`
+
+#### PLEASE DO NOT SUBTRACT OR DIVIDE STRINGS
 
 ## Character
 
@@ -60,34 +66,5 @@ To define:
 	mychar = 'h'
 	
 Single characters can be converted to their ASCII identifiers using the `ord()` function. Similarly, to convert an ASCII identifier back to a readable character, use the `chr()` function.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
