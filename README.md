@@ -9,6 +9,7 @@ Hacking is probably a little different from what you think it is. It's not about
 * Curiosity
 * Learning through hands-on experimentation
 * Striving to understand all parts of a system
+* **Using this knowledge for good**
 
 In other words, hackers are simply curious people. However, there are rules and legal stuff you have to worry about if you're a hacker, and that's the main reason why hackers have such a bad image today: irresponsible people breaking into systems they have no permission to be in and stealing information. PicoCTF 2013 outlines some important ethics when hacking:
 
