@@ -50,4 +50,4 @@ The cat command is used for:
 	cat >> test.txt
 	```
 	
-  Then type your text, and again, press [ctrl] + [d] when finished.
+  Then type your text, and again, press <kbd>Ctrl</kbd> + <kbd>D</kbd> when finished.
