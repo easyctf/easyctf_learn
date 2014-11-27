@@ -6,13 +6,15 @@ If, Else If, and Else are conditional statements, meaning that the condition set
 
 The format is usually as follows:
 
-	if (condition1):
-		code to be executed
-	elif (condition2):
-		different code to be executed
-	# more elifs if needed
-	else:
-		another different set of code to be executed
+```python
+if (condition1):
+	code to be executed
+elif (condition2):
+	different code to be executed
+# more elifs if needed
+else:
+	another different set of code to be executed
+```
 
 For example:
 
