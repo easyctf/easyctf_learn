@@ -23,4 +23,4 @@ This option recursively deletes files and directories
 
 #### PLEASE DO NOT USE `rm -rf` IF YOU DON'T KNOW WHAT YOU ARE DOING, IT WILL RECURSIVELY FORCE REMOVE FILES
 
-![](rmrf.jpg)
+![don't let this be you](rmrf.jpg)
