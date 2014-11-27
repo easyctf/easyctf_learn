@@ -15,4 +15,5 @@
        * [pwd](linux-pwd.md)
        * [cd](linux-cd.md)
 * [Resources](resources.md)
+* [rm](linux-rm.md)
 
