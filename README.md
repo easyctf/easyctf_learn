@@ -4,7 +4,7 @@ Hey there! If you're new to hacking, this is definitely a great place to start!
 
 ## Hacking
 
-PicoCTF 2013 outlines this very well.
+Hacking is 
 
 ## Contributing
 
