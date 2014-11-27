@@ -10,11 +10,15 @@ grep "hello" test.txt
     
 You can also search for multiple files, or use the wild card, the asterisk `*`, to search all files in a directory.
 
-    grep "hello" test1.txt test2.txt test3.txt
+```bash
+grep "hello" test1.txt test2.txt test3.txt
+```
     
 or
 
-    grep "hello" *
+```bash
+grep "hello" *
+```
     
 Just like with cat, there are several different options you can apply to grep to make it more or less specific.
 
