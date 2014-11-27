@@ -4,7 +4,7 @@ Hey there! If you're new to hacking, this is definitely a great place to start!
 
 ## Hacking
 
-Hacking is 
+Hacking is probably a little different from what you think it is.
 
 ## Contributing
 
