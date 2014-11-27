@@ -32,7 +32,7 @@ Suppose your current directory is `folder1`. You may see a prompt like this:
     
 ### Moving Down
 
-To move down from `folder1` to `folder2`, 
+To move down from `folder1` to `folder2`, simply type `cd folder2`. That's because `folder2` is inside of `folder1` right now and you can refer to it using a relative path. If you were in your home folder, you would not be able to refer to `folder2`, because `folder2` doesn't exist inside `~`.
 
 
 
