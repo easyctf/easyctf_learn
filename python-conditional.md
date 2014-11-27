@@ -10,7 +10,7 @@ The format is usually as follows:
 		code to be executed
 	elif (condition2):
 		different code to be executed
-	# {more elifs if needed}
+	# more elifs if needed
 	else:
 		another different set of code to be executed
 
