@@ -23,7 +23,9 @@ echo "The value of x = $x"
 	
 Outputs:
 
-	The value of x = 15
+```
+The value of x = 15
+```
 
 If you want to print a new line or a tab use `\n` and `\t` and add the *option* `-e` (which allows backslash interpretation) and enclose the string(s) you want to print with double quotes.
 
