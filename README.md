@@ -12,6 +12,8 @@ In other words, hackers are simply curious people. However, there are rules and 
 * Let someone know if you find their systems might be in jeopardy
 * Be responsible, and use good judgement
 
+If you're not careful, that's when you might find yourself in jail.
+
 ## Contributing
 
 Something wrong? Want to add something? Make a pull request [here](https://github.com/failedxyz/easyctf_tutorials) and we'll try to add your contributions to the book!
