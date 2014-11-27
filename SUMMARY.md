@@ -12,7 +12,7 @@
        * [ls](linux-ls.md)
        * [cat](linux-cat.md)
        * [grep](linux-grep.md)
-       * [cd](linux-cd.md)
        * [pwd](linux-pwd.md)
+       * [cd](linux-cd.md)
 * [Resources](resources.md)
 
