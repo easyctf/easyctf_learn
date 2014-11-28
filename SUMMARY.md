@@ -18,8 +18,8 @@
        * [mkdir](linux-mkdir.md)
        * [cp](linux-cp.md)
        * [mv](linux-mv.md)
-       * [i/o redirecting](linux-io-redirection.md)
        * [sudo](linux-sudo.md)
+       * [i/o redirecting](linux-io-redirection.md)
    * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
 
