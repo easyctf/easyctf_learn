@@ -44,5 +44,5 @@ For example:
 ls | less
 ```
 
-This makes the contents of ls scroll instead of just printing the whole thing into the terminal at high speed.
+`less` is a command that allows you to scroll through a screen of output (in this case, the output from `ls`) at a time instead of just printing the whole thing into the terminal at high speed.
 
