@@ -7,6 +7,7 @@
    * [Loops](python-loops.md)
    * [Conditional Statements](python-conditional.md)
 * [Linux Crash Course](linux-intro.md)
+   * [Filesystem](linux-filesystem.md)
    * [Command Overview](linux-commands.md)
        * [echo](linux-echo.md)
        * [ls](linux-ls.md)
@@ -20,6 +21,5 @@
        * [mv](linux-mv.md)
        * [sudo](linux-sudo.md)
        * [i/o redirecting](linux-io-redirection.md)
-   * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
 
