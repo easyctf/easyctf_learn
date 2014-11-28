@@ -21,4 +21,5 @@
        * [sudo](linux-sudo.md)
    * [Filesystem](linux-filesystem.md)
 * [Resources](resources.md)
+* [i/o redirecting](linux-io-redirection.md)
 
