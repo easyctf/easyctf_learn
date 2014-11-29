@@ -19,7 +19,7 @@ def func_name(a,b,c):
 	print(c)
 ```	
 
-`func_name(3,7,"hello")` would print an output of:
+`func_name(3,7,"Hello")` would print an output of:
 
 ```
 10
