@@ -4,6 +4,18 @@ Linux is an Operating System (OS). An OS is a medium between the applications yo
 
 Linux comes in many distributions. Each distribution can be vastly different, but in EasyCTF we will be observing one of the more popular Linux distributions, Ubuntu. You can use our Ubuntu server in your browser or you can download your own copy for the full experience.
 
+If you want to know more about any commands than we cover you can use the `man` command to view formatted online manual pages for the command.
+
+```bash
+man [command]
+```
+
+So for example:
+
+```bash
+man cat
+```
+
 ## Shell
 
 Linux features an interface called a **shell**. In a shell, you may see a prompt symbol, `$` , followed by a blinking cursor `_`, in which you type commands and hit enter, and then the computer executes your commands and prints the output.
