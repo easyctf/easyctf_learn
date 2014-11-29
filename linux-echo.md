@@ -1,4 +1,4 @@
-## echo
+# echo
 
 Echo displays strings to standard output. The strings can be encased with either single or double quotes.
 
