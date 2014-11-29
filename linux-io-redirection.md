@@ -1,5 +1,5 @@
-## Input/Output Redirection
-### Standard Output
+# Input/Output Redirection
+## Standard Output
 By default, most command line programs display results to the `standard output`, which directs its contents to the display.
 
 If you want to redirect output to a file, you use the angle bracket `>`.
@@ -16,7 +16,7 @@ If you call the command again, the file will be overwritten. So, if you want to 
 ls >> file.txt
 ```
 
-### Standard Input
+## Standard Input
 By default, most command line programs accept input from the `standard input`, which is usually what you type in from the keyboard to a command.
 
 To redirect input from a file instead of from the keyboard, you can use the angle bracket `<`.
@@ -25,7 +25,7 @@ To redirect input from a file instead of from the keyboard, you can use the angl
 sort < file1.txt
 ```
 
-In this example, the `sort` command was used to sort the conents of `file1.txt`. The results of this were outputted on the display because the standard output was not redirected.
+In this example, the `sort` command was used to sort the contents of `file1.txt`. The results of this were outputted on the display because the standard output was not redirected.
 
 You can also combine redirecting outputs and inputs like this:
 
