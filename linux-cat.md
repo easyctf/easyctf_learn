@@ -1,4 +1,4 @@
-## cat
+# cat
 
 The cat command is used for:
 
@@ -20,11 +20,11 @@ The cat command is used for:
 	cat *.txt
 	```
 	
-  To view all text files only.
+  To view all `.txt` files only.
 	
 * Reading a text file
 
-  Sometimes a file will be too large to read since it won't fit on screen and will scroll by at high speed. To bypass this, use the `cat` command with `more` or `less`.
+  Sometimes a file will be too large to read since it won't fit on screen and will scroll by at high speed. To bypass this, use the `cat` command with `more` or `less` (however, on some shells the more command is not supported).
   
 	```bash
 	cat bigfile | more
