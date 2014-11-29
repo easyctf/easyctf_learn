@@ -1,6 +1,6 @@
-## pwd
+# pwd
 
-pwd literally stands for "print working directory". The current working directory is the directory you are currently working in in your shell.
+pwd stands for "print working directory". The current working directory is the directory you are currently working in in your shell.
 
 This command is used for:
 
@@ -9,9 +9,14 @@ This command is used for:
 
 To print the current directory:
 
-    pwd
+```bash
+pwd
+```
     
 To store the path into a variable:
 
-    var = $(pwd)
-    echo "The current working directory is $var"
+
+```bash
+var = $(pwd)
+echo "The current working directory is $var"
+```
