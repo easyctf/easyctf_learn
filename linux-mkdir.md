@@ -1,4 +1,4 @@
-## mkdir
+# mkdir
 This command does exactly what it sounds like - it makes directories.
 
 For example, if the current directory is `documents`:
@@ -7,4 +7,4 @@ For example, if the current directory is `documents`:
     
 Would create a directory at `documents/hello`
 
-You can also use options with this command to do things such as changing permissions
+You can also use options with this command to do things such as changing permissions.
