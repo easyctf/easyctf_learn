@@ -1,4 +1,4 @@
-## mv
+# mv
 This command is used to move or rename files.
 
 To rename files:
@@ -25,7 +25,7 @@ In this case, the period `.` means to place the file here without renaming it. Y
 mv hello.txt music/newname.txt
 ```
 
-### -i
+## -i
 If you are trying to rename a file to an existing name, this option causes the shell to prompt you for confirmation before overriding.
 
 
