@@ -27,9 +27,18 @@ for x in range(0,5):
 	elif (x == 3):
 		print("4")
 	else:
-		print("last x value left to check")
+		print("last value left to check")
 ```
 
-would print `"hello"`, `"second or third"`, `"second or third"`, `"4"`, `"last x value left to check"` with each string on a new line.
+Would print:
 
-Notice how all the terms aren't just printed 5 times each as in the second example in the For-Loops section.
+```python
+hello
+second or third
+second or third
+4
+last value left to check
+```
+
+Notice how all the terms aren't just printed 5 times each as in the example in the For-Loops section.
+
