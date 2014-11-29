@@ -1,4 +1,4 @@
-## cd
+# cd
 This command changes the shell's current working directory.
 
 To use:
@@ -13,7 +13,7 @@ For example:
 cd documents/subfolder1/subfolder2
 ```
 
-As you can see, directories are separated by `/`.
+As you can see, directories are separated by a slash `/`.
 
 The `parent`, or the directory above the current one (in the example above the current would be `subfolder2` after changing to it, and the parent would be `subfolder1`) is represented by `..`.
 
@@ -36,7 +36,7 @@ There is also a specially named directory that can be represented with a tilde `
 This means that if your username is `testuser` and your home directory is `home` these two will be equivalent:
 
 ```bash
-    cd home\testuser
+    cd home/testuser
     cd ~
 ```    
    
