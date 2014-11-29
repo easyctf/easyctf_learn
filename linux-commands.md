@@ -10,6 +10,7 @@ This section will cover:
 * `cd`
 * `rm`
 * `mkdir`
-* `mv` and `cp`
+* `mv`
+* `cp`
 * `sudo`
-* `>` and `<`
+* `i/o redirecting`
