@@ -1,4 +1,4 @@
-## rm
+# rm
 
 This command is used to remove files or directories. By default, it does not remove directories but can be manipulated to do so with an option.
 
@@ -15,12 +15,13 @@ To delete the whole directory `hello` and the files it contains, change to paren
     cd ..
     rm -r hello
     
-### -i
+## -i
 This option makes the shell prompt you before each removal
 
-### -r
+## -r
 This option recursively deletes files and directories
 
 #### PLEASE DO NOT USE `rm -rf` IF YOU DON'T KNOW WHAT YOU ARE DOING, IT WILL RECURSIVELY FORCE REMOVE FILES
 
 ![don't let this be you](rmrf.jpg)
+
