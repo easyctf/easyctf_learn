@@ -1,21 +1,21 @@
-## ls
+# ls
 The command `ls` lists directory contents. A directory is a file that consists solely of a set of other files, like a folder.
 
 There are several options you can add to this command such as `-a`, `-r`, `-R`, `-X`, and many more.
 
-### -a
+## -a
 This option will list all entries in a directory, even ones starting with `.` .
 
-### -r
+## -r
 This option lists entries in reverse alphabetical order.
 
-### -R
+## -R
 This option recursively lists the contents of all sub-directories inside this one.
 
-### -X
+## -X
 This option lists entries sorted alphabetically by entry extension
 
-### -l
+## -l
 This option gives you a more complete listing of all of the files along with owner and permsisions.
 
 To use:
