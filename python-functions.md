@@ -1,4 +1,5 @@
 ## Functions
+A function is a part of a program that can complete a certain task. For example, a function may be written that finds the average of three supplied numbers. Once written, it can be used many times without having to rewrite it over and over again.
 
 ### Writing Functions
 
