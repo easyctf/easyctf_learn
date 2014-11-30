@@ -26,5 +26,5 @@ Before we had graphical interfaces, people typed commands into shells. Now you m
 
 In EasyCTF, we have a web shell that you can log in to to solve problems and get some hands-on Linux experience. The shell page should contain your credentials for signing in.
 
-- **Windows Users** - Use PuTTY to connect, using hostname `shell.easyctf.com` and port `22`:wqi
+- **Windows Users** - Use PuTTY to connect, using hostname `shell.easyctf.com` and port `22`
 - **Mac and Linux Users** - Use the `ssh` command in your terminal to connect: `ssh yourusername@shell.easyctf.com 22`
