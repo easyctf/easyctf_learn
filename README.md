@@ -4,7 +4,7 @@ Hey there! If you're new to hacking, this is definitely a great place to start!
 
 ## Hacking
 
-Hacking is probably a little different from what you think it is. It's not about breaking into people's machines and stealing their passwords. It's about learning about systems and how they work, and most importantly, how to use this information to your advantage. According to PicoCTF 2013, here's what hacking's all about:
+Hacking is probably a little different from what you think it is. It's not about breaking into people's machines and stealing their passwords. It's about learning about systems, how they work, and most importantly, how to use this information to your advantage. According to PicoCTF 2013, here's what hacking's all about:
 
 * Curiosity
 * Learning through hands-on experimentation
