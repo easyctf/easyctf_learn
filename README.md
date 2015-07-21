@@ -6,7 +6,7 @@ Hey there! If you're new to hacking, this is definitely a great place to start!
 
 Capture the Flag (CTF) competitions are cybersecurity competitions. They are often held online in Jeopardy or Attack-Defense formats.
 
-If you've ever played the physical capture-the-flag game, you'll know that flags are placed behind 
+If you've ever played the physical capture-the-flag game, you'll know that flags are placed behind various defenses, and that players need to bypass those defenses to capture the flag.
 
 ### tl;dr
 
