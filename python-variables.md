@@ -80,4 +80,15 @@ mychar = 'h'
 	
 Single characters can be converted to their ASCII identifiers using the `ord()` function. Similarly, to convert an ASCII identifier back to a readable character, use the `chr()` function.
 
+Python also has a useful type called a list. It's exactly what it sounds like, it's a way to store items in a non orderd way. Here's a quick example:
 
+```python
+students = ["James", "Jim", "Bob", "Freyja the Norse mythological diety", "Sally"]
+```
+Elements of a list can be accesed via indicies, i.e. students[0] returns the first element.
+You can add to a list by .appending() something.
+Say I wanted to get a nice representation of all the students in my class:
+```python
+Students enrolled in the School for Procrastination:
+print ', '.join(students)
+```
