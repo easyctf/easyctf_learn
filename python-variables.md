@@ -92,3 +92,9 @@ Say I wanted to get a nice representation of all the students in my class:
 Students enrolled in the School for Procrastination:
 print ', '.join(students)
 ```
+Another useful python type is the tuple, this is somewhat similar to the list, but the difference is that this is ordered. Not ordered in the sense that one is larger than the order, but think of a coordinate system, (x,y).
+That's how a tuple works. 
+```python
+battle_ship_location = ("B", 7) 
+print "HIT"
+```
