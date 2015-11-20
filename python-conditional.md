@@ -42,3 +42,11 @@ last value left to check
 
 Notice how all the terms aren't just printed 5 times each as in the example in the For-Loops section.
 
+We can also test if things are *not* true (false). Let's say we want to print out all grades that were not passing grades:
+```py
+grades = [55, 98, 78, 79, 35]
+for each in grades:
+	if not each > 65:
+		print "AP Classes are hard, man"
+```
+We are saying, if a value is NOT this, do the following.
